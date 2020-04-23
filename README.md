@@ -21,17 +21,31 @@ A su vez, esperamos que para las laboratorians la experiencia de coordinar en in
 Cabe señalar que en esta oportunidad solo nos centraremos en repos en español. 
 
 
-## ¿Cuáles son las etapas o estructura de actividades del piloto? 
+## ¿Cuáles son las etapas o estructura de actividades del piloto? y ¿cuánto tiempo durarán estas etapas? 
 
-* Formación de equipos y repartición de herramientas 
+* Kickoff Meeting 
+
+Jueves 23 de abril 2020  
+
+* Contacto con equipos owners y acceso a Slack 
+
+Inicio Lunes 27 de abril 2020  
 
 * Interacción con equipos owners en Github 
 
+Del jueves 30 de abril al 22 de mayo 
+
 * Generación de contenido sobre herramientas 
+
+Del jueves 30 de abril al 22 de mayo 
 
 * Reflexiones e ideas. 
 
+Mandaremos formularios esporádicos para recopilar información. 
+
 * Reconocimientos a laboratorians 
+
+Semana del 25 de mayo. 
 
  
 
@@ -45,31 +59,47 @@ Las herramientas que se publican en code.iadb.org pasan por 3 etapas:
 
 * Diseminación 
 
+## ¿Cuáles serán los canales de comunicación o interacción con el equipo de Código para el Desarrollo y los equipos de las herramientas a revisar? 
+
+Usaremos 3 canales de comunicación principales: 
+
+* Github: 
+
+Las chicas que verán las revisiones a los repos de las herramientas (evaluación técnica, documentación y licenciamiento) tendrán que interactuar con los equipos en la sección de issues en los repos oficiales de las mismas.  
+
+* Slack: 
+
+Canal de interacción principal entre el equipo de Código para el Desarrollo y las Laboratorian durante este piloto.  
+
+* Correo electrónico: 
+
+Las chicas cuya asignación es la de generar contenido (vitrina y blog sobre la herramienta) tendrán que usar este canal de comunicación para facilitar la creación de contenido con las personas designadas en los equipos owners.  
+
+Siempre poner en copia a Michelle Marshall (mmarshall@iadb.org) y a code@iadb.org. 
+
+Para cualquier otra consulta que no nos puedan hacer vía slack pueden comunicarse con nosotros al correo code@iadb.org. 
+
 
 ## ¿Cómo contribuirán las laboratorians en este proceso de publicación? 
 
 A continuación, iremos explicando en qué partes del proceso publicación necesitamos apoyo y cómo abordar la coordinación de actividades de manera ordenada durante las etapas del piloto. 
  
 
-### Formación de equipos y repartición de herramientas: 
+### Contacto con equipos owners de las herramientas: 
 
-Previa coordinación hemos identificado y contactado con los equipos de 10 herramientas candidatas a ser publicadas en code.iadb.org.   
+Previa coordinación hemos identificado y contactado con los equipos de 9 herramientas candidatas a ser publicadas en code.iadb.org.   
 
-Dependiendo de la cantidad de laboratorians que participen en la piloto haremos la distribución de las herramientas a los equipos que se formarán. 
-
-Máxima cantidad de personas por equipo: 4 a 5 personas 
-
-Mínima cantidad de personas por equipo: 2 personas 
+Hemos hecho la distribución de las herramientas entre 20 laboratorians que se inscribieron como colaboradoras en este piloto.
 
 Perfiles de las reviewers: 
 
-###### Perfil Dev  
+###### Perfil Dev - Revisión de Documentación, Evaluación técnica y licenciamiento  
 
 Contrastará los estándares de documentación y evaluación técnica de nuestra guía y levantarán issues respecto a lo que falte en los repos oficiales de las herramientas. 
 
 https://el-bid.github.io/guia-de-publicacion/ 
 
-###### Perfil UX – STORYTELLING  
+###### Perfil UX – Gerneración de contenido sobre las herramientas
 
 Coordinará con el equipo de comunicación de la herramienta para la creación de la vitrina siguiendo el template que ya manejamos y posteriormente también coordinará con Michelle Marshall, editora del Blog Abierto al Público la creación de un blog sobre la herramienta, enfocándose en la historia, impacto y posible reutilización de la misma. 
 
@@ -206,6 +236,8 @@ Lo que las laboratorian con perfil UX tendrán que hacer es:
 * Brindar apoyo en la edición del blog, resolviendo dudas con el equipo owner de presentarse el caso.
 
 ### Reflexiones e ideas. 
+
+Mandaremos formularios tanto a las laboratorian como a los equipos owner para recopilar información durante y después de la piloto.
 
 ### Reconocimientos a laboratorians 
 
