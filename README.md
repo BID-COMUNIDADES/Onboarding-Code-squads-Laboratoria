@@ -1,6 +1,16 @@
-# Onboarding: Piloto de colaboración en publicación de herramientas con Laboratoria 
+<h1 align="center"> Onboarding: Piloto de colaboración en publicación de herramientas con Laboratoria 
+</h1>
+<p align="center">Guía de acompañamiento para laboratorians</p>
+<br>
 
- 
+## Contenido
+
+- [¿Qué es Código para el Desarrollo?](#¿Qué-es-Código-para-el-Desarrollo?)
+- [Programming Languages](#programming-languages)
+- [Front-End Development](#front-end-development)
+- [Back-End Development](#back-end-development)
+- [Computer Science](#computer-science)
+- [Big Data](#big-data)
 
 ## ¿Qué es Código para el Desarrollo? 
 
