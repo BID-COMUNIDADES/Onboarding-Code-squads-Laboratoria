@@ -93,12 +93,7 @@ Siempre poner en copia a Michelle Marshall (mmarshall@iadb.org) y a code@iadb.or
 Para cualquier otra consulta que no nos puedan hacer vía slack pueden comunicarse con nosotros al correo code@iadb.org. 
 
 
-## ¿Cómo contribuirán las laboratorians en este proceso de publicación? 
-
-A continuación, iremos explicando en qué partes del proceso publicación necesitamos apoyo y cómo abordar la coordinación de actividades de manera ordenada durante las etapas del piloto. 
- 
-
-### Contacto con equipos owners de las herramientas: 
+## ¿Cómo contribuirán las laboratorians en este piloto? 
 
 Previa coordinación hemos identificado y contactado con los equipos de 9 herramientas candidatas a ser publicadas en code.iadb.org.   
 
@@ -106,23 +101,21 @@ Hemos hecho la distribución de las herramientas entre 20 laboratorians que se i
 
 
 ### Perfiles: 
+Hemos asignado a las laboratorians en sus respectivos equipos de trabajo asignándoles a la vez un perfil de trabajo. Las principales tareas de estos perfiles son:
 
 ###### Revisoras de repos - Revisión de Documentación, Evaluación técnica y licenciamiento  
 
-Contrastará los estándares de documentación y evaluación técnica de nuestra guía y levantarán issues respecto a lo que falte en los repos oficiales de las herramientas. 
+Contrastará los estándares de documentación y evaluación técnica y licenciamiento de nuestra guía y levantarán issues respecto a lo que falte en los repos oficiales en github de las herramientas asignadas. A su vez, estos issues tendrán que ser supervisados por esta laboratorian hasta donde sus capacidades se lo permita. 
 
 https://el-bid.github.io/guia-de-publicacion/ 
 
 ###### Generadoras de contenido sobre las herramientas
 
-Coordinará con el equipo de comunicación de la herramienta para la creación de la vitrina siguiendo el template que ya manejamos y posteriormente también coordinará con Michelle Marshall, editora del Blog Abierto al Público la creación de un blog sobre la herramienta, enfocándose en la historia, impacto y posible reutilización de la misma. 
+Coordinará con el equipo de comunicación de la herramienta para la creación de la vitrina de la herramienta en code.iadb.org siguiendo el template que ya manejamos y posteriormente también coordinará con Michelle Marshall, editora del Blog Abierto al Público la creación de un blog sobre la herramienta, enfocándose en la historia, impacto y posible reutilización de la misma. 
 
 https://blogs.iadb.org/conocimiento-abierto/es/ 
 
 
-### Interacción con equipos owners en Github 
-
-Para organizarnos en la etapa de evaluación de las herramientas usaremos como canal github, aquí las integrantes del equipo que tienen un perfil dev deberán efectuar tareas según la asignación que se hayan repartido. 
 
 ### ¿En qué consiste la revisión de repos?
 
@@ -136,7 +129,7 @@ Opcionalmente, esta información puede ir en otros documentos o archivos, pero e
 
 https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md 
 
-###### Lo que las laboratorian con perfil dev tendran que hacer es: 
+###### Lo que las laboratorian tendra que hacer es: 
 
 Revisar que el readme.md del repo público tenga las secciones que detallamos en la guía de publicación. https://el-bid.github.io/guia-de-publicacion/documents/documentacion/ , contamos con una plantilla de README.md para que pueda ser más fácil hacer esta revisión. https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md 
 
@@ -152,7 +145,7 @@ Conforme vaya avanzando la interacción con los equipos se ira cerrando este iss
 
 Al igual que la documentación, para la evaluación técnica de herramientas de código abierto no existe un estándar definido, pero bajo la iniciativa hemos identificado factores clave para empezar a evaluar las herramientas que publicamos. Recordemos antes de iniciar que cada herramienta tiene sus propias particularidades y que nos encontramos muy abiertos a recibir retroalimentación en especial en esta parte del proceso de publicación. 
 
-###### Lo que las laboratorian con perfil dev tendran que hacer es: 
+###### Lo que las laboratorian tendrá que hacer es: 
 
 Revisar la guía de publicación en la sección de evaluación técnica, allí encontrarán los puntos que consideramos solicitar a los equipos owners de las herramientas. 
 
@@ -213,14 +206,14 @@ Si la herramienta fue creada fuera de un financimiento del BID, pueden usar cual
 
 De no tenerla, recomendamos revisar https://choosealicense.com/ 
 
-###### las laboratorian con perfil dev tendran que hacer es: 
+###### las laboratorian tendrá que hacer es: 
 * Revisar que el repo tenga una licencia de código abierto.
  
 
 
 ### ¿En qué consiste la generación de contenidos?
 
-En paralelo a la evaluación, las laboratorian con perfil UX interactuarán con los equipos owner, específicamente con personal que ellos hayan designado para la tarea de acompañamiento en generar contenido sobre la herramienta. 
+En paralelo a la evaluación de repos, las laboratorians que hayan sido asignadas para generar contenido interactuarán con los equipos owner, específicamente con personal que ellos hayan designado para la tarea de acompañamiento en generar contenido sobre la herramienta. 
 
  
 
@@ -229,7 +222,7 @@ En paralelo a la evaluación, las laboratorian con perfil UX interactuarán con 
 Coordinará con el equipo de comunicación de la herramienta para la creación de la vitrina siguiendo el template que ya manejamos. 
 
 
-###### Lo que las laboratorian con perfil UX tendrán que hacer es: 
+###### Lo que las laboratorian tendrá que hacer es: 
 * Gestionar con el equipo owner la creación de este contenido.
 * Asegurarse que el contenido de la vitrina sea de utilidad para el público objetivo de la web, los funcionarios públicos de américa latina y el caribe.
 
