@@ -1,8 +1,7 @@
 # Preguntas para generar contenido en las vitrinas de las herramientas
 
 
-## Nombre de la herramienta en ES y EN: 
-(Especificar cómo quieren mantener el nombre de la herramienta en inglés y español: se recomienda (1) ser breve, (2) relacionarse con la función de la herramienta, (3) algo que funciona bien tanto en el inglés como el español.)
+- Nombre de la herramienta en español e inglés, Especificar cómo quieren mantener el nombre de la herramienta en inglés y español: se recomienda (1) ser breve, (2) relacionarse con la función de la herramienta, (3) algo que funciona bien tanto en el inglés como el español.
 
 - ¿Qué es la herramienta? ¿A quién le sirve? 25 palabras máx
 
