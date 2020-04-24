@@ -3,14 +3,26 @@
 <p align="center">Guía de acompañamiento para laboratorians</p>
 <br>
 
-## Contenido
+## Contenido 📚
 
-- [¿Qué es Código para el Desarrollo?](#¿Qué-es-Código-para-el-Desarrollo?)
-- [¿Cuál es el objetivo del piloto?](#¿Cuál-es-el-objetivo-del-piloto?)
-- [¿Cuáles son las etapas o estructura de actividades del piloto? y ¿cuánto tiempo durarán estas etapas?](#¿Cuáles-son-las-etapas-o-estructura-de-actividades-del-piloto?-y-¿cuánto-tiempo-durarán-estas-etapas?)
-- [¿En qué consiste el proceso de publicación de herramientas? ](#¿En-qué-consiste-el-proceso-de-publicación-de-herramientas?)
-- [¿Cuáles serán los canales de comunicación?](#¿Cuáles-serán-los-canales-de-comunicación?)
-- [¿Cómo contribuirán las laboratorians en este proceso de publicación?](#¿Cómo-contribuirán-las-laboratorians-en-este-proceso-de-publicación?)
+- [¿Qué es Código para el Desarrollo?](#qué-es-código-para-el-desarrollo)
+- [¿Cuál es el objetivo del piloto?](#cuál-es-el-objetivo-del-piloto)
+- [¿Cuáles serán los canales de comunicación?](#cuáles-serán-los-canales-de-comunicación)
+- [¿Cómo contribuirán las laboratorians en este proceso de publicación?](#cómo-contribuirán-las-laboratorians-en-este-proceso-de-publicación)
+  - [Perfiles](#perfiles)  
+
+- [¿Cuáles son las etapas o estructura de actividades del piloto? y ¿cuánto tiempo durarán estas etapas?](#cuáles-son-las-etapas-o-estructura-de-actividades-del-piloto-y-cuánto-tiempo-durarán-estas-etapas)
+
+- [¿En qué consiste la revisión de repos?](#interacción-con-equipos-owners-en-github)
+  - [Documentación](#documentación)
+  - [Evaluación técnica](#evaluación-técnica)
+  - [Licenciamiento](#licenciamiento)
+- [¿En qué consiste la generación de contenidos?](#en-qué-consiste-la-generación-de-contenidos)
+- [Reflexiones e ideas](#reflexiones-e-ideas)
+- [Reconocimientos a laboratorians](#reconocimientos-a-laboratorians)
+
+
+
 
 ## ¿Qué es Código para el Desarrollo? 
 
@@ -58,17 +70,6 @@ Mandaremos formularios esporádicos para recopilar información.
 Semana del 25 de mayo. 
 
  
-
-## ¿En qué consiste el proceso de publicación de herramientas? 
-
-Las herramientas que se publican en code.iadb.org pasan por 3 etapas: 
-
-* Identificación  
-
-* Evaluación 
-
-* Diseminación 
-
 ## ¿Cuáles serán los canales de comunicación? 
 
 Interacción con el equipo de Código para el Desarrollo y los equipos de las herramientas a revisar? 
@@ -103,29 +104,29 @@ Previa coordinación hemos identificado y contactado con los equipos de 9 herram
 
 Hemos hecho la distribución de las herramientas entre 20 laboratorians que se inscribieron como colaboradoras en este piloto.
 
-Perfiles de las reviewers: 
 
-###### Perfil Dev - Revisión de Documentación, Evaluación técnica y licenciamiento  
+### Perfiles: 
+
+###### Revisoras de repos - Revisión de Documentación, Evaluación técnica y licenciamiento  
 
 Contrastará los estándares de documentación y evaluación técnica de nuestra guía y levantarán issues respecto a lo que falte en los repos oficiales de las herramientas. 
 
 https://el-bid.github.io/guia-de-publicacion/ 
 
-###### Perfil UX – Gerneración de contenido sobre las herramientas
+###### Generadoras de contenido sobre las herramientas
 
 Coordinará con el equipo de comunicación de la herramienta para la creación de la vitrina siguiendo el template que ya manejamos y posteriormente también coordinará con Michelle Marshall, editora del Blog Abierto al Público la creación de un blog sobre la herramienta, enfocándose en la historia, impacto y posible reutilización de la misma. 
 
 https://blogs.iadb.org/conocimiento-abierto/es/ 
 
- 
 
 ### Interacción con equipos owners en Github 
 
 Para organizarnos en la etapa de evaluación de las herramientas usaremos como canal github, aquí las integrantes del equipo que tienen un perfil dev deberán efectuar tareas según la asignación que se hayan repartido. 
 
-### ¿En qué consiste la evaluación de herramientas? 
+### ¿En qué consiste la revisión de repos?
 
-En la iniciativa evaluamos a las herramientas bajo tres pilares: 
+En la iniciativa revisamos los repos de las herramientas bajo tres pilares: 
 
 ## Documentación:  
 
@@ -217,7 +218,7 @@ De no tenerla, recomendamos revisar https://choosealicense.com/
  
 
 
-### Generación de contenido sobre herramientas 
+### ¿En qué consiste la generación de contenidos?
 
 En paralelo a la evaluación, las laboratorian con perfil UX interactuarán con los equipos owner, específicamente con personal que ellos hayan designado para la tarea de acompañamiento en generar contenido sobre la herramienta. 
 
@@ -247,7 +248,7 @@ Lo que las laboratorian con perfil UX tendrán que hacer es:
 * Conversar con el equipo owner sobre el potencial de reutilización y apoyar en plasmar este contenido en el blog.
 * Brindar apoyo en la edición del blog, resolviendo dudas con el equipo owner de presentarse el caso.
 
-### Reflexiones e ideas. 
+### Reflexiones e ideas 
 
 Mandaremos formularios tanto a las laboratorian como a los equipos owner para recopilar información durante y después de la piloto.
 
