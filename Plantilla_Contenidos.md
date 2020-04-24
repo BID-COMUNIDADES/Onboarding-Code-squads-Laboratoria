@@ -4,16 +4,11 @@
 ## Nombre de la herramienta en ES y EN: 
 (Especificar cómo quieren mantener el nombre de la herramienta en inglés y español: se recomienda (1) ser breve, (2) relacionarse con la función de la herramienta, (3) algo que funciona bien tanto en el inglés como el español.)
 
-## ¿Qué es la herramienta? ¿A quién le sirve? 25 palabras máx
-______________________________________________________________________________________________________________________________________________________________________________________________________________
+- ¿Qué es la herramienta? ¿A quién le sirve? 25 palabras máx
 
+- ¿Por qué se creó? La solución que brinda a una problemática específica. ¿Cuál es el antes y después del uso de la herramienta? 50 - 70 palabras máx.
 
-## ¿Por qué se creó? La solución que brinda a una problemática específica. ¿Cuál es el antes y después del uso de la herramienta?  
- 50 - 70 palabras máx.
-__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-## ¿Cuáles son las oportunidades de mejora y/o reutilización de la herramienta?  50 - 100 palabras máx.
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+- ¿Cuáles son las oportunidades de mejora y/o reutilización de la herramienta?  50 - 100 palabras máx.
 
 Despues que ya tengan clara la información en estas 3 preguntas con la que se armará la vitrina de la herramienta en code.iadb.org empezamos a realizar el blog.
 
