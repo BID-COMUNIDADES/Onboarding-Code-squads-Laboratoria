@@ -6,11 +6,11 @@
 ## Contenido
 
 - [¿Qué es Código para el Desarrollo?](#¿Qué-es-Código-para-el-Desarrollo?)
-- [Programming Languages](#programming-languages)
-- [Front-End Development](#front-end-development)
-- [Back-End Development](#back-end-development)
-- [Computer Science](#computer-science)
-- [Big Data](#big-data)
+- [¿Cuál es el objetivo del piloto?](#¿Cuál-es-el-objetivo-del-piloto?)
+- [¿Cuáles son las etapas o estructura de actividades del piloto? y ¿cuánto tiempo durarán estas etapas?](#¿Cuáles-son-las-etapas-o-estructura-de-actividades-del-piloto?-y-¿cuánto-tiempo-durarán-estas-etapas?)
+- [¿En qué consiste el proceso de publicación de herramientas? ](#¿En-qué-consiste-el-proceso-de-publicación-de-herramientas?)
+- [¿Cuáles serán los canales de comunicación?](#¿Cuáles-serán-los-canales-de-comunicación?)
+- [¿Cómo contribuirán las laboratorians en este proceso de publicación?](#¿Cómo-contribuirán-las-laboratorians-en-este-proceso-de-publicación?)
 
 ## ¿Qué es Código para el Desarrollo? 
 
@@ -69,7 +69,9 @@ Las herramientas que se publican en code.iadb.org pasan por 3 etapas:
 
 * Diseminación 
 
-## ¿Cuáles serán los canales de comunicación o interacción con el equipo de Código para el Desarrollo y los equipos de las herramientas a revisar? 
+## ¿Cuáles serán los canales de comunicación? 
+
+Interacción con el equipo de Código para el Desarrollo y los equipos de las herramientas a revisar? 
 
 Usaremos 3 canales de comunicación principales: 
 
