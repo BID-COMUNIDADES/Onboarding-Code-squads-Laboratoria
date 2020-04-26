@@ -16,11 +16,11 @@
 
 - [¿En qué consiste la revisión de repos?](#en-qué-consiste-la-revisión-de-repos)
   - [Documentación](#documentación)
-    - [Lo que la revisora de repo realizará](#lo-que-la-revisora-de-repo-realizará)
+    - [Puntos de trabajo en documentación](#puntos-de-trabajo-en-documentación)
   - [Evaluación técnica](#evaluación-técnica)
-    - [Lo que la revisora de repo realizará](#lo-que-la-revisora-de-repo-realizará)
+    - [Puntos de trabajo en la evaluación técnica](#puntos-de-trabajo-en-la-evaluación-técnica)
   - [Licenciamiento](#licenciamiento)
-    - [Lo que la revisora de repo realizará](#lo-que-la-revisora-de-repo-realizará) 
+    - [Puntos de trabajo el licenciamiento](#puntos-de-trabajo-el-licenciamiento) 
 - [¿En qué consiste la generación de contenidos?](#en-qué-consiste-la-generación-de-contenidos)
   - [Lo que la generadora de contenido realizará](#lo-que-la-generadora-de-contenido-realizará)
 - [Reflexiones e ideas](#reflexiones-e-ideas)
@@ -106,12 +106,13 @@ Se realizarán en las siguientes fechas y horas en Jitsi meet, dejaremos el link
 
 ## ¿Cómo contribuirán las laboratorians en este piloto? 
 
-Previa coordinación hemos identificado y contactado con los equipos de 9 herramientas candidatas a ser publicadas en code.iadb.org.   
+Previa coordinación hemos identificado y contactado con los equipos de herramientas candidatas a ser publicadas en code.iadb.org, algunas serán publicadas y otras será mejoradas.  
 
-Hemos hecho la distribución de las herramientas entre 20 laboratorians que se inscribieron como colaboradoras en este piloto.
+Hemos hecho la distribución de las herramientas entre 20 laboratorians que se inscribieron como colaboradoras en este piloto, podrán ver sus asignaciones en slack y también se las enviaremos por correo.
 
 
 ### Perfiles: 
+
 Hemos asignado a las laboratorians en sus respectivos equipos de trabajo asignándoles a la vez un perfil de trabajo. Las principales tareas de estos perfiles son:
 
 ### Revisoras de repos 
@@ -140,11 +141,10 @@ Aunque no existe un formato estándar para abordar la documentación de herramie
 
 Opcionalmente, esta información puede ir en otros documentos o archivos, pero estos recursos deben estar siempre referenciados en el README.md 
 
-https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md 
 
-### Lo que la revisora de repo realizará: 
+### Puntos de trabajo en documentación: 
 
-- Revisar que el readme.md del repo público tenga las secciones que detallamos en la guía de publicación. https://el-bid.github.io/guia-de-publicacion/documents/documentacion/ , contamos con una plantilla de README.md para que pueda ser más fácil hacer esta revisión. https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md 
+- Revisar que el readme.md del repo público tenga las secciones que detallamos en la guía de publicación. https://el-bid.github.io/guia-de-publicacion/documents/documentacion/, contamos con una plantilla de README.md para que pueda ser más fácil hacer esta revisión. https://github.com/EL-BID/Plantilla-de-repositorio/blob/master/README.md 
 
 - Generar un issue tipo checklist en el repo oficial de la herramienta que está siendo revisada sobre la información faltante en el README.md. En este issue se mencionará también qué parte de lo faltante podrá ser resuelta por la laboratorian, siempre teniendo en cuenta su capacidad para hacerlo. Para que posteriormente se genere un pull request de los puntos que se ofrecieron a resolver. Esto último reafirmamos, NO es obligatorio, pero en caso de que se pueda hacer ya hemos dado aviso a los equipos owners para que estén atentos a las sugerencias. El issue estará clasificado por los owners por los tags help wanted y documentación. 
 
@@ -160,7 +160,7 @@ Esto ayudará a que veamos el evance ya que estará tageada la cuenta oficial de
 
 Al igual que la documentación, para la evaluación técnica de herramientas de código abierto no existe un estándar definido, pero bajo la iniciativa hemos identificado factores clave para empezar a evaluar las herramientas que publicamos. Recordemos antes de iniciar que cada herramienta tiene sus propias particularidades y que nos encontramos muy abiertos a recibir retroalimentación en especial en esta parte del proceso de publicación. 
 
-### Lo que la revisora de repo realizará: 
+### Puntos de trabajo en la evaluación técnica: 
 
 Revisar la guía de publicación en la sección de evaluación técnica, allí encontrarán los puntos que consideramos solicitar a los equipos owners de las herramientas. 
 
@@ -219,7 +219,7 @@ Si la herramienta fue creada fuera de un financimiento del BID, pueden usar cual
 
 De no tenerla, recomendamos revisar https://choosealicense.com/ 
 
-### Lo que la revisora de repo realizará: 
+### Puntos de trabajo en el licenciamiento: 
 
 - Revisar que el repo tenga una licencia de código abierto, si el repo no tiene una se sugerirá al equipo owner escoger una. 
 
