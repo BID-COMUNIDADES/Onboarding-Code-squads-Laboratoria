@@ -1,5 +1,6 @@
-<h1 align="center"> Onboarding: Piloto de colaboración en publicación de herramientas con Laboratoria 
+<h1 align="center"> Onboarding: Laboratoria Code Squads  
 </h1>
+<p align="center">Piloto de colaboración en publicación de herramientas con Laboratoria</p>
 <p align="center">Guía de acompañamiento para laboratorians</p>
 <br>
 
