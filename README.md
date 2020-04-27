@@ -22,7 +22,7 @@
   - [Licenciamiento](#licenciamiento)
     - [Puntos de trabajo en el licenciamiento](#puntos-de-trabajo-en-el-licenciamiento) 
 - [¿En qué consiste la generación de contenidos?](#en-qué-consiste-la-generación-de-contenidos)
-  - [Lo que la generadora de contenido realizará](#lo-que-la-generadora-de-contenido-realizará)
+  - [Puntos de trabajo en la generación de contenido](#puntos-de-trabajo-en-la-generación-de-contenido)
 - [Reflexiones e ideas](#reflexiones-e-ideas)
 - [Reconocimientos a laboratorians](#reconocimientos-a-laboratorians)
 
@@ -219,7 +219,7 @@ En la iniciativa usamos esta pirámide de contenidos para diferenciar los objeti
 <img src="https://github.com/BID-COMUNIDADES/Onboarding-Code-squads-Laboratoria/blob/master/piramide_de_contenidos.png" align="center" />
 
 
-### Lo que la generadora de contenido realizará: 
+### Puntos de trabajo en la generación de contenido: 
 
 - Coordinar por correo electrónico con el encargado(a) de comunicaciones en el equipo owner la creación de la Vitrina de la herramienta en code.iadb.org. 
 Para esto podrá enviar las preguntas de esta plantilla https://github.com/BID-COMUNIDADES/Onboarding-Code-squads-Laboratoria/blob/master/Plantilla_Contenidos.md
@@ -240,8 +240,10 @@ Mandaremos formularios tanto a las laboratorian como a los equipos owner para re
 
 ## Reconocimientos a laboratorians 
 
-* Diploma de reconocimiento según expertise técnico para las jóvenes que participaron en el piloto 
+* Diploma de reconocimiento según expertise técnico para las jóvenes que participaron en el piloto. 
 
 * Post en el Blog del BID - Abierto al Público - para compartir la experiencia (grupal) 
 
 * Recomendación en LinkedIn (Por el BID y los equipos de trabajo de las ciudades) 
+
+* Las laboratorian seguirán perteneciendo a la Team en github. 
