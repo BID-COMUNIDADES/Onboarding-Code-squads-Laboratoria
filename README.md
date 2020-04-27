@@ -20,7 +20,7 @@
   - [Evaluación técnica](#evaluación-técnica)
     - [Puntos de trabajo en la evaluación técnica](#puntos-de-trabajo-en-la-evaluación-técnica)
   - [Licenciamiento](#licenciamiento)
-    - [Puntos de trabajo el licenciamiento](#puntos-de-trabajo-el-licenciamiento) 
+    - [Puntos de trabajo en el licenciamiento](#puntos-de-trabajo-en-el-licenciamiento) 
 - [¿En qué consiste la generación de contenidos?](#en-qué-consiste-la-generación-de-contenidos)
   - [Lo que la generadora de contenido realizará](#lo-que-la-generadora-de-contenido-realizará)
 - [Reflexiones e ideas](#reflexiones-e-ideas)
@@ -208,6 +208,7 @@ De no tenerla, recomendamos revisar https://choosealicense.com/
 
 - Revisar que el repo tenga una licencia de código abierto, si el repo no tiene una se sugerirá al equipo owner escoger una. 
 
+Puedes usar esta plantilla para solicitar que se agregue https://github.com/BID-COMUNIDADES/Onboarding-Code-squads-Laboratoria/blob/master/plantilla_Issue_licenciamiento.md
 
 ## ¿En qué consiste la generación de contenidos?
 
