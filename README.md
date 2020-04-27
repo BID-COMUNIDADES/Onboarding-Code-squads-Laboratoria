@@ -65,10 +65,12 @@ Aceptaremos issues en el repo de onboarding y estaremos atentas a nuevas discusi
 Hemos creado el slack BID-COMUNIDADES el cual será nuestro canal de interacción principal entre el equipo de Código para el Desarrollo y las Laboratorian durante este piloto.  
 
 Los canales que encontrarán en slack son:
-  - canales por herramienta asignada (encontrarán a las integrantes de su equipo)
-  - #anuncios
-  - #dudas
-  - #random
+
+  - canales por herramienta asignada: Podrán interactuar con las integrantes de su equipo allí.
+  - #anuncios: postearemos anuncios oficiales de la piloto.
+  - #dudas: Estaremos atentos a sus consultas en este canal.
+  - #random: cosas random que quieran compartir con todas.
+  - #General: Recursos, comentarios, testimonios, apreciaciones, etc sobre la piloto que quieran compartir.
 
 - Correo electrónico: 
 
@@ -160,54 +162,37 @@ Esto ayudará a que veamos el evance ya que estará tageada la cuenta oficial de
 
 Al igual que la documentación, para la evaluación técnica de herramientas de código abierto no existe un estándar definido, pero bajo la iniciativa hemos identificado factores clave para empezar a evaluar las herramientas que publicamos. Recordemos antes de iniciar que cada herramienta tiene sus propias particularidades y que nos encontramos muy abiertos a recibir retroalimentación en especial en esta parte del proceso de publicación. 
 
-### Puntos de trabajo en la evaluación técnica: 
 
 Revisar la guía de publicación en la sección de evaluación técnica, allí encontrarán los puntos que consideramos solicitar a los equipos owners de las herramientas. 
 
 https://el-bid.github.io/guia-de-publicacion/documents/evaluacion/ 
 
-Para esta piloto, estamos considerando 1 criterio de evaluación obligatorio y 1 criterio opcional.  
+### Puntos de trabajo en la evaluación técnica: 
 
-Los cuales son: 
-
-Reporte de evaluación estática de código  
-
+- Agregar el microservicio de reportes de evaluación estática de código de Sonarcloud
 Será obligatorio que todas las herramientas de la piloto tengan un reporte de evaluación estática de código. Lo ideal en este punto es que el repositorio tenga vinculado un servicio que ofrezca esta opción, para esto, el equipo owner tendrá que registrarse y vincular su cuenta de github con este servicio. Para laboratorians que estén revisando herramientas del BID solo tendrán que contactar con Jesenia Rodríguez para generar el reporte de Sonarcloud ya que el BID ya cuenta con este servicio vinculado. 
 
 Nosotros recomendamos SonarCloud por la baja brecha de aprendizaje que ofrece para empezar a usarlo, pero las dejamos decidir si quisieran recomendar otro servicio similar. 
 
-A continuación, te explicamos como abordar este tema con los equipos owners: 
+Usar este template de issue de evaluación técnica, esto ayudará a que veamos el evance ya que estará tageada la cuenta oficial del BID. https://github.com/BID-COMUNIDADES/Onboarding-Code-squads-Laboratoria/blob/master/plantilla_Issue_evaluacion_tecnica.md
 
-- Generar un issue en el repo dedicado a este punto 
-
-Habiendo observado el repo y haciendo las consultas o dudas que te hayan surgido revisándolo. 
-
-Usar este template de issue de evaluación técnica, esto ayudará a que veamos el evance ya que estará tageada la cuenta oficial del BID. 
-
- 
-
-- Agregar el badge del resultado del reporte en el Readme.md 
-
+- Agregar el badge del servicio de reportes de evaluación estática visible en el readme.md
 La mayoría de los servicios que generan reportes estáticos de evaluación de código a su vez generan el markdown de badges para colocar en los repositorios de las herramientas. De esta forma cualquier persona puede ingresar a ver el reporte generado por el último commit de la herramienta. 
 
- 
+- Agregar el microservicio de integración continua de código (opcional)
 
-- Posibilidad de generar Pull Requests 
-
-Una vez generado el reporte se podrán visualizar diversos problemas con el código, en este momento la laboratorian observará cual de esos problemas estará en capacidad de resolver generando pull requests, recalcamos que esto último no es obligatorio, pero de realizarse ya hemos dado aviso a los equipos owners de tener especial atención a estas contribuciones. 
-
- 
-- Herramienta de integración continua de código 
-
-Será opcional que los equipos implementen una herramienta de integración continua de código. 
-
-Recomendamos hacer uso de una herramienta de integración continua de código (recomendamos Travis CI) para visibilizar el estado del build (debe estar en estado passing) en el readme.md dando uso al badge generado por este microservicio. 
+Será opcional que los equipos implementen una herramienta de integración continua de código.Recomendamos recomendamos Travis CI para visibilizar el estado del build (debe estar en estado passing.
 
 Pueden usar cualquier otro microservicio que tenga esa función, a su vez es ideal poder ver el estado del build de manera pública. 
 
 https://docs.travis-ci.com/ 
 
- 
+- Agregar el badge de este servicio visible en el readme.md (opcional)
+La mayoría de los servicios o herramientas de integración continua de código tiene la opción de generar badges en markdown que pueden insertarse en el readme.md, el cual debe ser agregado de realizarse esta tarea. 
+
+- Posibilidad de generar Pull Requests 
+Una vez generado el reporte se podrán visualizar diversos problemas con el código, en este momento la laboratorian observará cual de esos problemas estará en capacidad de resolver generando pull requests, recalcamos que esto último no es obligatorio, pero de realizarse ya hemos dado aviso a los equipos owners de tener especial atención a estas contribuciones. 
+
 
 ## Licenciamiento: 
  
@@ -245,7 +230,7 @@ Para esto podrá enviar las preguntas de esta plantilla https://github.com/BID-C
 - Coordinar con Michelle Marshall, editora del Blog Abierto al Público la creación de un blog sobre la herramienta, enfocándose en la historia, impacto y posible reutilización de la misma. https://blogs.iadb.org/conocimiento-abierto/es/ 
 Para esto también pueden revisar las preguntas evocadoras que hemos preparado en la plantilla de contenidos. https://github.com/BID-COMUNIDADES/Onboarding-Code-squads-Laboratoria/blob/master/Plantilla_Contenidos.md.
 
-En toda comunicación deberá ser copiada Michelle Marshall (mmarshall@iadb.org y code@iadb.org.
+En toda comunicación deberá ser copiada Michelle Marshall (mmarshall@iadb.org) y code@iadb.org.
 
 
 ## Reflexiones e ideas 
