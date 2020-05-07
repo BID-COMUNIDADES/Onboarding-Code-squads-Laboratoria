@@ -77,7 +77,7 @@ Los canales que encontrarán en slack son:
 
 Las chicas cuya asignación es la de generar contenido (vitrina y blog sobre la herramienta) tendrán que usar este canal de comunicación para facilitar la creación de contenido con las personas designadas en los equipos owners.  
 
-Siempre poner en copia a Michelle Marshall (mmarshall@iadb.org) y a code@iadb.org. 
+Siempre poner en copia a Laura Paonessa (mpaonessa@iadb.org), Michelle Marshall (mmarshall@iadb.org) y a code@iadb.org. 
 
 Para cualquier otra consulta que no nos puedan hacer vía slack pueden comunicarse con nosotros al correo code@iadb.org. 
 
