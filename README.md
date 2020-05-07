@@ -229,10 +229,10 @@ Para esto podrá enviar las preguntas de esta plantilla https://github.com/BID-C
 
 - Trabajar con las revisoras de código de su equipo para reutilizar el contenido generado en la vitrinas para que la revisora de documentación pueda mejorar la descripción de la herramienta en el readme.md de la herramienta.
 
-- Coordinar con Michelle Marshall, editora del Blog Abierto al Público la creación de un blog sobre la herramienta, enfocándose en la historia, impacto y posible reutilización de la misma. https://blogs.iadb.org/conocimiento-abierto/es/ 
+- Coordinar con Laura Paonessa y Michelle Marshall, editora del Blog Abierto al Público la creación de un blog sobre la herramienta, enfocándose en la historia, impacto y posible reutilización de la misma. https://blogs.iadb.org/conocimiento-abierto/es/ 
 Para esto también pueden revisar las preguntas evocadoras que hemos preparado en la plantilla de contenidos. https://github.com/BID-COMUNIDADES/Onboarding-Code-squads-Laboratoria/blob/master/Plantilla_Contenidos.md.
 
-En toda comunicación deberá ser copiada Michelle Marshall (mmarshall@iadb.org) y code@iadb.org.
+En toda comunicación deberá ser copiada Laura Paonessa (mpaonessa@iadb.org), Michelle Marshall (mmarshall@iadb.org) y code@iadb.org.
 
 
 ## Reflexiones e ideas 
